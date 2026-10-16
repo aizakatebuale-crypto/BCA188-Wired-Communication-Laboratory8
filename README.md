@@ -14,6 +14,7 @@
 | SPI CS | 	27 |	D27 |
 
 ### Wiring Diagram
+<img width="4096" height="3072" alt="image" src="https://github.com/user-attachments/assets/1c50e841-3615-46a7-bbaa-66d5de33f1ab" />
 
 
 ### Serial Monitor output
